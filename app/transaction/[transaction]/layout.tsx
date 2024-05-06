@@ -8,7 +8,7 @@ export default function TransactionLayout({
       <div className="w-screen max-w-lg flex flex-col mt-4 px-4 gap-4">
         <div className="flex gap-4 items-center mt-4">
           <a className="font-bold italic hover:underline" href="/">
-            exploroor
+            usa explorer
           </a>
 
           <Search />
