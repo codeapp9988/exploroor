@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "exploroor",
-  description: "solami transactions fast",
+  title: "USA",
+  description: "solana transactions fast",
 };
 
 export default function RootLayout({
@@ -17,9 +17,7 @@ export default function RootLayout({
         <div className="flex justify-center w-full">{children}</div>
 
         <span className="w-full text-center text-xs block mt-[-24px]">
-          made with ❤️ by the folks at{" "}
-          <a href="https://filtoor.xyz" target="_blank" className="underline">
-            filtoor
+          made with ❤️ by hetcon
           </a>
         </span>
       </body>
