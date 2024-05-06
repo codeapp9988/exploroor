@@ -18,7 +18,6 @@ export default function RootLayout({
 
         <span className="w-full text-center text-xs block mt-[-24px]">
           made with ❤️ by hetcon
-          </a>
         </span>
       </body>
     </html>
